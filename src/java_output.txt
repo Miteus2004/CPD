@@ -1,0 +1,355 @@
+========== BASIC MULTIPLICATION (600 -> 3000, step 400) ==========
+Matrix Size: 600x600
+Time: 0.183279 seconds
+Matrix Size: 600x600
+Time: 0.181957 seconds
+Matrix Size: 600x600
+Time: 0.195306 seconds
+Matrix Size: 600x600
+Time: 0.170097 seconds
+Matrix Size: 600x600
+Time: 0.174955 seconds
+Matrix Size: 1000x1000
+Time: 1.042732 seconds
+Matrix Size: 1000x1000
+Time: 1.044966 seconds
+Matrix Size: 1000x1000
+Time: 1.093526 seconds
+Matrix Size: 1000x1000
+Time: 1.073970 seconds
+Matrix Size: 1000x1000
+Time: 1.269279 seconds
+Matrix Size: 1400x1400
+Time: 4.847962 seconds
+Matrix Size: 1400x1400
+Time: 4.918799 seconds
+Matrix Size: 1400x1400
+Time: 4.865777 seconds
+Matrix Size: 1400x1400
+Time: 4.914203 seconds
+Matrix Size: 1400x1400
+Time: 5.071848 seconds
+Matrix Size: 1800x1800
+Time: 10.711724 seconds
+Matrix Size: 1800x1800
+Time: 9.957633 seconds
+Matrix Size: 1800x1800
+Time: 10.949025 seconds
+Matrix Size: 1800x1800
+Time: 10.351045 seconds
+Matrix Size: 1800x1800
+Time: 10.660267 seconds
+Matrix Size: 2200x2200
+Time: 20.181223 seconds
+Matrix Size: 2200x2200
+Time: 19.105407 seconds
+Matrix Size: 2200x2200
+Time: 22.576706 seconds
+Matrix Size: 2200x2200
+Time: 19.380247 seconds
+Matrix Size: 2200x2200
+Time: 19.181522 seconds
+Matrix Size: 2600x2600
+Time: 35.997908 seconds
+Matrix Size: 2600x2600
+Time: 34.476446 seconds
+Matrix Size: 2600x2600
+Time: 31.542966 seconds
+Matrix Size: 2600x2600
+Time: 33.090528 seconds
+Matrix Size: 2600x2600
+Time: 32.438590 seconds
+Matrix Size: 3000x3000
+Time: 50.241195 seconds
+Matrix Size: 3000x3000
+Time: 52.329461 seconds
+Matrix Size: 3000x3000
+Time: 48.934058 seconds
+Matrix Size: 3000x3000
+Time: 53.504300 seconds
+Matrix Size: 3000x3000
+Time: 62.228717 seconds
+
+========== LINE MULTIPLICATION (600 -> 3000, step 400) ==========
+Matrix Size: 600x600
+Time: 0.130482 seconds
+Matrix Size: 600x600
+Time: 0.113980 seconds
+Matrix Size: 600x600
+Time: 0.109686 seconds
+Matrix Size: 600x600
+Time: 0.102954 seconds
+Matrix Size: 600x600
+Time: 0.101649 seconds
+Matrix Size: 1000x1000
+Time: 0.685077 seconds
+Matrix Size: 1000x1000
+Time: 0.713123 seconds
+Matrix Size: 1000x1000
+Time: 0.739448 seconds
+Matrix Size: 1000x1000
+Time: 0.883708 seconds
+Matrix Size: 1000x1000
+Time: 0.827834 seconds
+Matrix Size: 1400x1400
+Time: 1.981783 seconds
+Matrix Size: 1400x1400
+Time: 1.867313 seconds
+Matrix Size: 1400x1400
+Time: 1.796210 seconds
+Matrix Size: 1400x1400
+Time: 1.726029 seconds
+Matrix Size: 1400x1400
+Time: 1.563933 seconds
+Matrix Size: 1800x1800
+Time: 3.513824 seconds
+Matrix Size: 1800x1800
+Time: 3.504305 seconds
+Matrix Size: 1800x1800
+Time: 3.391504 seconds
+Matrix Size: 1800x1800
+Time: 3.265658 seconds
+Matrix Size: 1800x1800
+Time: 3.397978 seconds
+Matrix Size: 2200x2200
+Time: 6.452094 seconds
+Matrix Size: 2200x2200
+Time: 6.637538 seconds
+Matrix Size: 2200x2200
+Time: 6.207393 seconds
+Matrix Size: 2200x2200
+Time: 6.425593 seconds
+Matrix Size: 2200x2200
+Time: 6.698961 seconds
+Matrix Size: 2600x2600
+Time: 11.411145 seconds
+Matrix Size: 2600x2600
+Time: 10.333024 seconds
+Matrix Size: 2600x2600
+Time: 10.627656 seconds
+Matrix Size: 2600x2600
+Time: 11.802816 seconds
+Matrix Size: 2600x2600
+Time: 10.411823 seconds
+Matrix Size: 3000x3000
+Time: 15.829092 seconds
+Matrix Size: 3000x3000
+Time: 17.643734 seconds
+Matrix Size: 3000x3000
+Time: 18.281735 seconds
+Matrix Size: 3000x3000
+Time: 16.326337 seconds
+Matrix Size: 3000x3000
+Time: 16.585065 seconds
+
+========== BLOCK MULTIPLICATION (600 -> 3000, step 400) ==========
+Matrix Size: 600x600 | Block Size: 128
+Time: 0.171456 seconds
+Matrix Size: 600x600 | Block Size: 128
+Time: 0.162766 seconds
+Matrix Size: 600x600 | Block Size: 128
+Time: 0.182774 seconds
+Matrix Size: 600x600 | Block Size: 128
+Time: 0.182879 seconds
+Matrix Size: 600x600 | Block Size: 128
+Time: 0.181015 seconds
+Matrix Size: 600x600 | Block Size: 256
+Time: 0.178410 seconds
+Matrix Size: 600x600 | Block Size: 256
+Time: 0.179086 seconds
+Matrix Size: 600x600 | Block Size: 256
+Time: 0.190945 seconds
+Matrix Size: 600x600 | Block Size: 256
+Time: 0.176256 seconds
+Matrix Size: 600x600 | Block Size: 256
+Time: 0.177028 seconds
+Matrix Size: 600x600 | Block Size: 512
+Time: 0.194941 seconds
+Matrix Size: 600x600 | Block Size: 512
+Time: 0.194418 seconds
+Matrix Size: 600x600 | Block Size: 512
+Time: 0.192664 seconds
+Matrix Size: 600x600 | Block Size: 512
+Time: 0.190661 seconds
+Matrix Size: 600x600 | Block Size: 512
+Time: 0.191781 seconds
+Matrix Size: 1000x1000 | Block Size: 128
+Time: 0.816399 seconds
+Matrix Size: 1000x1000 | Block Size: 128
+Time: 0.820418 seconds
+Matrix Size: 1000x1000 | Block Size: 128
+Time: 0.811638 seconds
+Matrix Size: 1000x1000 | Block Size: 128
+Time: 0.826341 seconds
+Matrix Size: 1000x1000 | Block Size: 128
+Time: 0.818948 seconds
+Matrix Size: 1000x1000 | Block Size: 256
+Time: 0.827608 seconds
+Matrix Size: 1000x1000 | Block Size: 256
+Time: 0.850813 seconds
+Matrix Size: 1000x1000 | Block Size: 256
+Time: 0.857656 seconds
+Matrix Size: 1000x1000 | Block Size: 256
+Time: 0.840317 seconds
+Matrix Size: 1000x1000 | Block Size: 256
+Time: 0.859915 seconds
+Matrix Size: 1000x1000 | Block Size: 512
+Time: 0.916014 seconds
+Matrix Size: 1000x1000 | Block Size: 512
+Time: 0.911950 seconds
+Matrix Size: 1000x1000 | Block Size: 512
+Time: 0.967569 seconds
+Matrix Size: 1000x1000 | Block Size: 512
+Time: 0.944241 seconds
+Matrix Size: 1000x1000 | Block Size: 512
+Time: 0.980440 seconds
+Matrix Size: 1400x1400 | Block Size: 128
+Time: 2.334989 seconds
+Matrix Size: 1400x1400 | Block Size: 128
+Time: 2.242171 seconds
+Matrix Size: 1400x1400 | Block Size: 128
+Time: 2.215060 seconds
+Matrix Size: 1400x1400 | Block Size: 128
+Time: 2.213876 seconds
+Matrix Size: 1400x1400 | Block Size: 128
+Time: 2.206700 seconds
+Matrix Size: 1400x1400 | Block Size: 256
+Time: 2.257919 seconds
+Matrix Size: 1400x1400 | Block Size: 256
+Time: 2.227013 seconds
+Matrix Size: 1400x1400 | Block Size: 256
+Time: 2.245609 seconds
+Matrix Size: 1400x1400 | Block Size: 256
+Time: 2.263189 seconds
+Matrix Size: 1400x1400 | Block Size: 256
+Time: 2.311830 seconds
+Matrix Size: 1400x1400 | Block Size: 512
+Time: 2.594347 seconds
+Matrix Size: 1400x1400 | Block Size: 512
+Time: 2.456295 seconds
+Matrix Size: 1400x1400 | Block Size: 512
+Time: 2.564007 seconds
+Matrix Size: 1400x1400 | Block Size: 512
+Time: 2.656506 seconds
+Matrix Size: 1400x1400 | Block Size: 512
+Time: 2.449951 seconds
+Matrix Size: 1800x1800 | Block Size: 128
+Time: 4.800063 seconds
+Matrix Size: 1800x1800 | Block Size: 128
+Time: 4.697169 seconds
+Matrix Size: 1800x1800 | Block Size: 128
+Time: 4.711703 seconds
+Matrix Size: 1800x1800 | Block Size: 128
+Time: 4.637714 seconds
+Matrix Size: 1800x1800 | Block Size: 128
+Time: 4.594680 seconds
+Matrix Size: 1800x1800 | Block Size: 256
+Time: 4.657984 seconds
+Matrix Size: 1800x1800 | Block Size: 256
+Time: 4.646980 seconds
+Matrix Size: 1800x1800 | Block Size: 256
+Time: 4.678316 seconds
+Matrix Size: 1800x1800 | Block Size: 256
+Time: 4.669333 seconds
+Matrix Size: 1800x1800 | Block Size: 256
+Time: 4.687660 seconds
+Matrix Size: 1800x1800 | Block Size: 512
+Time: 5.715466 seconds
+Matrix Size: 1800x1800 | Block Size: 512
+Time: 5.572403 seconds
+Matrix Size: 1800x1800 | Block Size: 512
+Time: 5.195315 seconds
+Matrix Size: 1800x1800 | Block Size: 512
+Time: 5.351141 seconds
+Matrix Size: 1800x1800 | Block Size: 512
+Time: 6.168942 seconds
+Matrix Size: 2200x2200 | Block Size: 128
+Time: 9.162183 seconds
+Matrix Size: 2200x2200 | Block Size: 128
+Time: 9.230042 seconds
+Matrix Size: 2200x2200 | Block Size: 128
+Time: 9.163030 seconds
+Matrix Size: 2200x2200 | Block Size: 128
+Time: 8.846979 seconds
+Matrix Size: 2200x2200 | Block Size: 128
+Time: 8.817282 seconds
+Matrix Size: 2200x2200 | Block Size: 256
+Time: 8.970784 seconds
+Matrix Size: 2200x2200 | Block Size: 256
+Time: 8.591873 seconds
+Matrix Size: 2200x2200 | Block Size: 256
+Time: 8.825662 seconds
+Matrix Size: 2200x2200 | Block Size: 256
+Time: 8.597778 seconds
+Matrix Size: 2200x2200 | Block Size: 256
+Time: 8.645273 seconds
+Matrix Size: 2200x2200 | Block Size: 512
+Time: 10.962623 seconds
+Matrix Size: 2200x2200 | Block Size: 512
+Time: 10.945969 seconds
+Matrix Size: 2200x2200 | Block Size: 512
+Time: 10.216877 seconds
+Matrix Size: 2200x2200 | Block Size: 512
+Time: 10.208094 seconds
+Matrix Size: 2200x2200 | Block Size: 512
+Time: 10.057926 seconds
+Matrix Size: 2600x2600 | Block Size: 128
+Time: 14.466083 seconds
+Matrix Size: 2600x2600 | Block Size: 128
+Time: 14.059428 seconds
+Matrix Size: 2600x2600 | Block Size: 128
+Time: 13.838926 seconds
+Matrix Size: 2600x2600 | Block Size: 128
+Time: 13.788462 seconds
+Matrix Size: 2600x2600 | Block Size: 128
+Time: 13.900702 seconds
+Matrix Size: 2600x2600 | Block Size: 256
+Time: 14.230613 seconds
+Matrix Size: 2600x2600 | Block Size: 256
+Time: 14.368530 seconds
+Matrix Size: 2600x2600 | Block Size: 256
+Time: 14.299924 seconds
+Matrix Size: 2600x2600 | Block Size: 256
+Time: 13.975411 seconds
+Matrix Size: 2600x2600 | Block Size: 256
+Time: 14.425635 seconds
+Matrix Size: 2600x2600 | Block Size: 512
+Time: 15.858750 seconds
+Matrix Size: 2600x2600 | Block Size: 512
+Time: 15.470433 seconds
+Matrix Size: 2600x2600 | Block Size: 512
+Time: 15.512420 seconds
+Matrix Size: 2600x2600 | Block Size: 512
+Time: 17.235744 seconds
+Matrix Size: 2600x2600 | Block Size: 512
+Time: 16.092036 seconds
+Matrix Size: 3000x3000 | Block Size: 128
+Time: 21.356922 seconds
+Matrix Size: 3000x3000 | Block Size: 128
+Time: 21.329216 seconds
+Matrix Size: 3000x3000 | Block Size: 128
+Time: 21.207673 seconds
+Matrix Size: 3000x3000 | Block Size: 128
+Time: 21.631065 seconds
+Matrix Size: 3000x3000 | Block Size: 128
+Time: 21.690815 seconds
+Matrix Size: 3000x3000 | Block Size: 256
+Time: 21.463087 seconds
+Matrix Size: 3000x3000 | Block Size: 256
+Time: 21.458682 seconds
+Matrix Size: 3000x3000 | Block Size: 256
+Time: 21.911519 seconds
+Matrix Size: 3000x3000 | Block Size: 256
+Time: 23.020748 seconds
+Matrix Size: 3000x3000 | Block Size: 256
+Time: 21.992331 seconds
+Matrix Size: 3000x3000 | Block Size: 512
+Time: 24.972333 seconds
+Matrix Size: 3000x3000 | Block Size: 512
+Time: 24.060246 seconds
+Matrix Size: 3000x3000 | Block Size: 512
+Time: 25.371903 seconds
+Matrix Size: 3000x3000 | Block Size: 512
+Time: 25.134427 seconds
+Matrix Size: 3000x3000 | Block Size: 512
+Time: 24.720014 seconds
